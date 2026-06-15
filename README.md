@@ -9,7 +9,7 @@
 [![Repository](https://img.shields.io/badge/Repository-Demonstration%20Only-0B1F3A?style=for-the-badge)](#)
 [![Model](https://img.shields.io/badge/Model-TriStackFuse--BD-00B8C7?style=for-the-badge)](#)
 [![Application](https://img.shields.io/badge/Application-Real--Time%20Web%20Demo-008C95?style=for-the-badge)](#)
-[![Source Code](https://img.shields.io/badge/Source%20Code-Not%20Included-D9D9D9?style=for-the-badge)](#)
+
 
 <br>
 
@@ -49,9 +49,10 @@ The screen-recorded application demonstration is available below.
 
 <div align="center">
 
-<img src="assets/web_application_interface.png" alt="TriStackFuse-BD Web Application Interface" width="900">
+<img src="Web%20Application.png" alt="TriStackFuse-BD Web Application Interface" width="900">
 
 </div>
+
 
 ---
 
@@ -71,37 +72,6 @@ The screen-recorded application demonstration is available below.
 This repository supports the manuscript subsection:
 
 <code>\subsection{Real-Time Web Application Performance}</code>
-
-Recommended manuscript statement:
-
-> A screen-recorded demonstration of the real-time TriStackFuse-BD web application is provided through the accompanying GitHub demonstration repository: [GitHub repository link].
-
----
-
-## Repository Scope
-
-| Item                        | Status       |
-| --------------------------- | ------------ |
-| Application screenshot      | Included     |
-| YouTube demonstration video | Linked       |
-| README documentation        | Included     |
-| Source code                 | Not included |
-| Model checkpoints           | Not included |
-| Dataset files               | Not included |
-| Training scripts            | Not included |
-
----
-
-## Required File Structure
-
-<pre>
-TriStackFuse-BD-WebApp-Demo/
-│
-├── README.md
-│
-└── assets/
-    └── web_application_interface.png
-</pre>
 
 ---
 
