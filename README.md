@@ -41,8 +41,6 @@ The screen-recorded application demonstration is available below.
 
 </div>
 
-> Replace the placeholder YouTube URL with the final uploaded demonstration video link.
-
 ---
 
 ## Application Interface
