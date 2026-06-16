@@ -65,14 +65,6 @@ The screen-recorded application demonstration is available below.
 
 ---
 
-## Manuscript Context
-
-This repository supports the manuscript subsection:
-
-<code>\subsection{Real-Time Web Application Performance}</code>
-
----
-
 ## Note
 
 This repository provides visual and video-based evidence of the deployed web application interface and inference workflow associated with the proposed TriStackFuse-BD framework.
