@@ -37,7 +37,7 @@ The screen-recorded application demonstration is available below.
 
 <div align="center">
 
-[![Watch Application Demo](https://img.shields.io/badge/Watch%20Application%20Demo-YouTube-BF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/watch?v=REPLACE_WITH_YOUR_VIDEO_ID)
+[![Watch Application Demo](https://img.shields.io/badge/Watch%20Application%20Demo-YouTube-BF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=awpGHZNmCc4)
 
 </div>
 
